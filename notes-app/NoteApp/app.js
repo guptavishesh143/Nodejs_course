@@ -10,5 +10,5 @@ const emailCheck =  validator.isEmail('guptavihsesh2332@gmail.adin');
 
 //chalk ( for theming)
 
-console.log("emailCheck===>",color.sucess('hggjgjgj'));
+console.log("emailCheck===>",color.sucess('THIS IS SUCESS'));
 
