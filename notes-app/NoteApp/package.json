@@ -11,6 +11,7 @@
   "type": "module",
   "dependencies": {
     "chalk": "^5.1.2",
-    "validator": "^13.7.0"
+    "validator": "^13.7.0",
+    "yargs": "^17.6.2"
   }
 }
